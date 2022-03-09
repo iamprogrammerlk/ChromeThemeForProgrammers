@@ -1,7 +1,7 @@
 # Chrome Theme For Programmers
 The best Chrome theme for programmers.
 
-# Download and add a Chrome theme in Chrome 75+
+# Download and install Chrome theme in Chrome 75+
 ## Manual Install 
 
 ! Note: this may not works on Mac OS.
@@ -12,7 +12,7 @@ The best Chrome theme for programmers.
 4. Drag and drop the downloaded theme zip file into Extensions page.
 5. Click Add theme button.
 6. Enjoy
-7. Contact us if you have any issue.
+7. Contact me if you have any issue.
 
 # Remove a Chrome theme
 1. At the top right, click More and then Settings.
@@ -35,3 +35,12 @@ Control Buttons #162d40
 Buttons #1eaafd
 
 Inspired by twitter's Dim theme.
+
+## Author
+* Github     >> https://github.com/IamProgrammerLK
+* Blogger    >> http://blog.iamprogrammer.lk
+* Facebook   >> https://facebook.com/IamProgrammerLK
+* Twitter    >> https://twitter.com/IamProgrammerLK
+
+## License
+Code released under the [MIT license](http://opensource.org/licenses/MIT).
